@@ -1,0 +1,13 @@
+Week 3 
+
+Include in powerpoint:
+- If name/main
+- Using this as an import in another bit of code 
+
+Files to include in repo:
+- Powerpoint as a PDF 
+
+Class tasks:
+- Create this function 
+- Use if name/main in this file to run it 
+- Create a separate file and use this module in the second file

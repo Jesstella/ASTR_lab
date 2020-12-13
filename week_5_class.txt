@@ -1,0 +1,11 @@
+Week 5 
+
+Include in powerpoint:
+- Not reinventing the wheel 
+- Downloading modules and pip 
+
+Files to include in repo:
+- Powerpoint as a PDF 
+
+Class tasks:
+
