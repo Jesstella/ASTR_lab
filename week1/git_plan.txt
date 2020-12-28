@@ -1,1 +1,6 @@
 This is the plan for the students using GIT to submit their work. 
+
+1) Set up a git repo on your computer.
+Command line 
+Bash 
+Mkdir astr
